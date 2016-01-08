@@ -1,0 +1,28 @@
+name: yqnancy
+favicon: null
+layout_spectrum: 0.44618294574320316
+typography_spectrum: 0.28524126508273184
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.17868958692997694
+  lightness: 0.10684437793679535
+  saturation: 0.374438971048221
+  rhythmicContrast: 0.08831675094552338
+purpose: []
